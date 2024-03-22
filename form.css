@@ -1,14 +1,12 @@
 #top {
-    align-self: flex-start;
-    padding-left: 520px;
-    text-align: left; 
+    margin-right: 300px;
 }
 input[type="submit"] {
     align-self: flex-end;
     background-color: orange;
     color: white;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 20px;
     border: 2px solid rgb(61, 176, 53);
     padding: 10px 20px;
 
